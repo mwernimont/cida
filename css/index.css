@@ -184,13 +184,13 @@ nav ul li:hover ul li a:hover{
 					
 #newsfeed{
 		width:397px;
-		height:412px;
+		height:410px;
 		float:left;
 					}
 					
 #newsfeed #topbar{background:rgb(15,65,111);
 					width:100%;
-					height:30px;
+					height:27px;
 					color:#fff;
 					text-align:left;
 					font-family:"PT Sans Narrow";

@@ -15,6 +15,8 @@ em#ipad{display:none;}
 
 h1.mobile{display:none !important;}
 
+nav p{color:#fff;}
+
 body{background:rgb(225,222,222);
 		min-width:305px;
 		min-height:400px;

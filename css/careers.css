@@ -15,7 +15,7 @@ body{background:rgb(225,222,222);
 		overflow:auto;
 	}
 	
-
+nav p{color:#fff;}
 
 h1#mobile{display:none;}
 

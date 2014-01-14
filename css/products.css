@@ -27,12 +27,14 @@ b{font-weight:normal;}
 
 #mobilecontacth1{display:none;}
 
-
+nav p{color:#fff;}
 
 body{background:rgb(225,222,222);
 		min-width:305px;
 		min-height:480px;
 		}
+		
+
 		
 @media (min-width:1200px){
 	
@@ -99,7 +101,8 @@ nav{background:rgb(15,65,111);
 		
 nav p{padding: 12px 10px;
 		font-size:1.6em;
-		float:left;}
+		float:left;
+		color:#fff;}
 		
 nav ul{display:block;
 	list-style-type:none;
